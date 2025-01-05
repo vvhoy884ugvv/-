@@ -37,7 +37,7 @@ up.Parent = Frame
 up.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
-up.Text = "up‘"
+up.Text = "up"
 up.TextColor3 = Color3.fromRGB(0, 255, 0)
 up.TextSize = 17.000
 
@@ -47,7 +47,7 @@ down.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 down.Size = UDim2.new(0, 44, 0, 28)
 down.Font = Enum.Font.SourceSans
-down.Text = "down“"
+down.Text = "down"
 down.TextColor3 = Color3.fromRGB(255, 0, 0)
 down.TextSize = 17.000
 
@@ -67,7 +67,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "ټوٌـحهْ  ™„"
+TextLabel.Text = "ټوٌـحهْ  ™"
 TextLabel.TextColor3 = Color3.new(0, 255, 0) 
 TextLabel.TextScaled = true
 TextLabel.TextSize = 13.250
@@ -149,25 +149,25 @@ nowe = false
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "ټوٌـحهْ  ™";
 	Text = "by HydraX";
-	Icon = "rbxthumb://type=Asset&id=11935868660&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=13680530184&w=150&h=150"})
 Duration = 15;
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "ټوٌـحهْ  ™";
 	Text = "Gui Fly";
-	Icon = "rbxthumb://type=Asset&id=11935883214&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=13680530184&w=150&h=150"})
 Duration = 10;
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "ټوٌـحهْ  ™";
 	Text = "created by HydraX";
-	Icon = "rbxthumb://type=Asset&id=11935866652&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=13680530184&w=150&h=150"})
 Duration = 30;
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "ټوٌـحهْ  ™";
 	Text = "by HydraX";
-	Icon = "rbxthumb://type=Asset&id=11935866652&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=13680530184&w=150&h=150"})
 Duration = 30;
 
 Frame.Active = true -- main = gui
